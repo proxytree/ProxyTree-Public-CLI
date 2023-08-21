@@ -1,22 +1,39 @@
-# 🌳 ProxyTree Public CLI 
+
+![Logo](https://cdn.discordapp.com/attachments/1027206163860836432/1143215590278975498/agjfghfjgh.png)
+
+
+# 🌳 ProxyTree Public CLI
 
 A program that allows people to share their unused internet bandwidth and get paid for it, now in CLI.
 
-# 🎀 Features
 
--   Made by Coddo
--   Command Line Interface so you can look like a hacker in front of your friends and brag about it
 
-# 🤓 Insatllation
+## Features
 
--   Have at least 3 brain cells before proceeding with the installation
--   Head over to `Releases` and grab the latest file for your operating system
--   Run the file you've just downloaded
+- Make money from your unused internet bandwidth
+- Cross platform - Windows/macOS/Linux
+- Lightweight
+- Command-Line Interface
 
-# 🧦 Contributing
+## Screenshots
 
-- Use GitHub and create a Pull Request. Any contributions are appreciated.
+![App Screenshot](https://cdn.discordapp.com/attachments/1027206163860836432/1143230610194837666/cli.png)
 
-# 📄 Copyrights
+## Installation
 
-Copyrights for `public/favicon.ico`, `public/icon.ico` and `public/icon.png` are owned by [Brawlhalla, Blue Mammoth Games](https://www.brawlhalla.com/)
+- Go to `Releases` and pick the executable installer for your operating system
+- Open it and run the app
+    
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+## Support
+
+For support, email info@proxytree.net or join our [Discord server](https://discord.com/invite/9NFW5mSbGK).
+
